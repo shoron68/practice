@@ -64,13 +64,12 @@ const Events = () => {
 
     }
   return (
-    <div className="bg-[#15161C] pt-[124px] pb-[300px]">
-
-    <div className="slider-container ml-[240px] ">
+    <div className="bg-[#15161C] pt-[124px] pb-[300px] ">
+    <div className="slider-container ml-[240px]  top-0 right-0 z-20">
       <Slider {...settings}>
         <div>
           <div className="pl-4">
-            <div className=" bg-gray-900 text-white rounded-lg shadow-lg ">
+            <div className=" bg-[#212121] text-white rounded-lg shadow-lg">
 
       <div className="relative">
         <img
@@ -133,7 +132,7 @@ const Events = () => {
         </div>
         <div>
           <div className="pl-4">
-            <div className=" bg-gray-900 text-white rounded-lg shadow-lg ">
+            <div className=" bg-[#212121] text-white rounded-lg shadow-lg ">
 
       <div className="relative">
         <img
@@ -196,7 +195,7 @@ const Events = () => {
         </div>
         <div>
           <div className="pl-4">
-            <div className=" bg-gray-900 text-white rounded-lg shadow-lg ">
+            <div className=" bg-[#212121] text-white rounded-lg shadow-lg ">
 
       <div className="relative">
         <img
@@ -263,7 +262,7 @@ const Events = () => {
 
         <div>
           <div className="pl-4">
-            <div className=" bg-gray-900 text-white rounded-lg shadow-lg ">
+            <div className=" bg-[#212121] text-white rounded-lg shadow-lg ">
 
       <div className="relative">
         <img
@@ -326,7 +325,7 @@ const Events = () => {
         </div>
         <div>
           <div className="pl-4">
-            <div className=" bg-gray-900 text-white rounded-lg shadow-lg ">
+            <div className=" bg-[#212121] text-white rounded-lg shadow-lg ">
 
       <div className="relative">
         <img
